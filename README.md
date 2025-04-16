@@ -1,0 +1,2 @@
+# LMS_LOGIN_AUTO
+LMS 로그인 자동화
